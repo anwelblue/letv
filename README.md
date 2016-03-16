@@ -1,3 +1,0 @@
-# letv
-
-letv for laravel
