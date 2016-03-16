@@ -1,0 +1,16 @@
+{
+    "name": "anwelblue/letv",
+    "description": "letv-for-laravel",
+    "authors": [
+        {
+            "name": "anwelblue",
+            "email": "anwelblue@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":[
+    		"Anwelblue\\Letv\\":"src/"
+    	]
+    }
+}
