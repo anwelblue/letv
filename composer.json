@@ -10,7 +10,7 @@
     "require": {},
     "autoload":{
     	"psr-4":{
-    		"Anwelblue\\Letv\\":"src/"
+    		"Anwelblue\\Letv\\":"src/Letv"
     	}
     }
 }
